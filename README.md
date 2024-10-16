@@ -1,7 +1,8 @@
 # Ex-01-Linux-Commands
-# Name: GEORGE PAUL TONY.C
-# Reg No: 212222040043
-
+`
+Name: GEORGE PAUL TONY.C
+Reg No: 212222040043
+`
 ## Aim:
 
 To study the execution of various Linux operating system commands.
