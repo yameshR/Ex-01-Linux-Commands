@@ -1,9 +1,9 @@
 # Ex-01-Linux-Commands
 `
-Name: GEORGE PAUL TONY.C
+Name: YAMESH R
 `
 `
-Reg No: 212222040043
+Reg No: 212222040059
 `
 ## Aim:
 
